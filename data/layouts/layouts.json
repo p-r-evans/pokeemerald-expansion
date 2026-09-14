@@ -9353,6 +9353,16 @@
       "secondary_tileset": "gTileset_GenericBuilding",
       "border_filepath": "data/layouts/APARTMENT_HALLWAY/border.bin",
       "blockdata_filepath": "data/layouts/APARTMENT_HALLWAY/map.bin"
+    },
+    {
+      "id": "LAYOUT_IRUDO_DOCKS",
+      "name": "IrudoDocks_Layout",
+      "width": 48,
+      "height": 148,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Lilycove",
+      "border_filepath": "data/layouts/IrudoDocks/border.bin",
+      "blockdata_filepath": "data/layouts/IrudoDocks/map.bin"
     }
   ]
 }

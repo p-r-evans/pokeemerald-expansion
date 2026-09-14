@@ -75,7 +75,8 @@
     "gMapGroup_IndoorTwoIslandRoute_Frlg",
     "gMapGroup_IndoorSixIslandRoute_Frlg",
     "gMapGroup_IndoorSevenIslandRoute_Frlg",
-    "gMapGroup_IndoorTevis"
+    "gMapGroup_IndoorTevis",
+    "gMapGroup_IrudoTownsAndRoutes"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -1166,5 +1167,8 @@
     "HomeApartment",
     "NeighborApartment",
     "APARTMENT_HALLWAY"
+  ],
+  "gMapGroup_IrudoTownsAndRoutes": [
+    "IrudoDocks"
   ]
 }

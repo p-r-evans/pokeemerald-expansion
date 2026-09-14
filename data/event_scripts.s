@@ -1744,3 +1744,5 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/NeighborApartment/scripts.inc"
 
 	.include "data/maps/APARTMENT_HALLWAY/scripts.inc"
+
+	.include "data/maps/IrudoDocks/scripts.inc"
